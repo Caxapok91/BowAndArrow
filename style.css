@@ -1,0 +1,27 @@
+body {
+    background: #e0f7fa;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin-top: 20px;
+}
+#gameCanvas {
+    background: #fff;
+    border: 2px solid #333;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 0 10px #888;
+}
+#score {
+    font-size: 1.5em;
+    margin: 10px;
+}
+#restartBtn {
+    padding: 10px 20px;
+    font-size: 1em;
+    margin-top: 10px;
+    cursor: pointer;
+} 
